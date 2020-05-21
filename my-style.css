@@ -1,0 +1,244 @@
+body{ font-family:Gilroy-Regular !important; font-size:18px; line-height:23px; }
+.page-navi__listing .page-navi__list a{ font-size:18px; color:#000000; font-weight:bold; }
+#timer_badge{ padding-left:0px; padding-right:0px; display:block !important;  }
+.custom_im_row_holder{ border:0px solid red; padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:40px !important;}
+.custom_im_row_holder_inner{ border:0px solid red; padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:0px !important;}
+.custom_im_row{ border:0px solid red; padding-top:20px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:40px !important;}
+.custom_im_row_holder .custom_im_row{ margin-bottom:0px !important;}
+.custom_im_row .custom_im_row_colwrap{ border:0px solid green; padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:0px !important; }
+.custom_im_row .custom_im_row_col{ border:0px solid blue; }
+.custom_im_row .custom_im_row_col h3{ margin-top:0px !important; margin-bottom:20px !important; border:0px solid blue; }
+.custom_im_row .custom_im_row_col h5{ margin-top:0px !important; margin-bottom:20px !important; border:0px solid blue; }
+#group-7{ padding-top:40px !important; padding-bottom:40px !important; margin-bottom:0px !important;}
+.how_can_help_section_holder{ text-align:center !important;}
+.how_can_help_section{ display:inline-block !important; float:none !important; margin-bottom:30px; margin-left:0px !important; margin-right:0px !important; }
+.footer p{ text-align:center; padding-top:10px; padding-bottom:10px; font-size:18px; font-family:Gilroy-Regular !important;  }
+
+.custom_enroll_button{ display:inline-block; position:absolute; left:auto; right:55px; top:10px; padding:8px 20px; border-radius:25px; border:none; background:#FAA200; color:#ffffff;  font-size:18px; text-transform:uppercase; font-weight:bold; cursor:pointer; }
+.custom_enroll_button:hover{ color:#000000; }
+
+.custom_whatsapp_button{ display:inline-block; position:absolute; left:auto; right:5px; top:10px; padding:4px 5px; border-radius:0px; border:none; background:none; color:#ffffff;  font-size:18px; text-transform:uppercase; font-weight:bold; cursor:pointer; }
+
+.custom_gototop_button{ display:inline-block; position:absolute; left:auto; right:5px; top:10px; width:50px; height:50px; line-height:50px; border-radius:40px; text-align:center; border:none; background:#FAA200; color:#ffffff;  font-size:20px; text-transform:uppercase; font-weight:bold; cursor:pointer; }
+.custom_gototop_button:hover{ color:#000000; }
+
+@media only screen and (min-width: 400px) and (max-width: 719px) 
+{
+.omnibar .img-logo{position:absolute;top:0;right:auto;bottom:0;left:0;margin:auto; max-width:160px;max-height:35px}
+.custom_enroll_button{ position:absolute; left:auto; right:55px; top:12px; padding:6px 10px; border-radius:25px; font-size:16px; }
+.custom_whatsapp_button{ right:9px; top:12px; padding:2px 5px; }
+
+.custom_im_row_holder{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:20px !important;}
+.custom_im_row_holder_inner{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:0px !important;}
+.custom_im_row{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:20px !important;}
+.custom_im_row_holder .custom_im_row{ margin-bottom:0px !important;}
+.custom_im_row .custom_im_row_colwrap{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:0px !important; }
+.custom_im_row .custom_im_row_col{ }
+.custom_im_row .custom_im_row_col h3{ margin-top:0px !important; margin-bottom:20px !important; border:0px solid blue; }
+.custom_im_row .custom_im_row_col h5{ margin-top:0px !important; margin-bottom:20px !important; border:0px solid blue; }
+
+#timer_badge{ padding-left:60px; padding-right:60px; }
+.custom_im_row .custom_im_row_col p{ font-size:18px; line-height:22px; }
+.top_intro_col p{ font-size:18px; line-height:22px; }
+.custom_im_row .custom_im_row_col ul li{ font-size:18px; line-height:22px; }
+.how_can_help_section h6{ font-size:22px; }
+.footer p{ padding-top:10px; padding-bottom:10px; font-size:16px;  }
+}
+@media only screen and (min-width: 240px) and (max-width: 399px) 
+{
+.omnibar .img-logo{position:absolute;top:0;right:auto;bottom:0;left:0;margin:auto; max-width:160px;max-height:35px}
+.custom_enroll_button{ position:absolute; left:auto; right:55px; top:12px; padding:6px 10px; border-radius:25px; font-size:16px; }
+.custom_whatsapp_button{ right:9px; top:12px; padding:2px 5px; }
+
+.custom_im_row_holder{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:20px !important;}
+.custom_im_row_holder_inner{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:0px !important;}
+.custom_im_row{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:20px !important;}
+.custom_im_row_holder .custom_im_row{ margin-bottom:0px !important;}
+.custom_im_row .custom_im_row_colwrap{ padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; margin-bottom:0px !important; }
+.custom_im_row .custom_im_row_col{ }
+.custom_im_row .custom_im_row_col h3{ margin-top:0px !important; margin-bottom:20px !important; border:0px solid blue; }
+.custom_im_row .custom_im_row_col h5{ margin-top:0px !important; margin-bottom:20px !important; border:0px solid blue; }
+
+#timer_badge{ padding-left:40px; padding-right:40px; }
+.custom_im_row .custom_im_row_col p{ font-size:18px; line-height:22px; }
+.top_intro_col p{ font-size:18px; line-height:22px; }
+.custom_im_row .custom_im_row_col ul li{ font-size:18px; line-height:22px; }
+.how_can_help_section h6{ font-size:22px; }
+.footer p{ padding-top:10px; padding-bottom:10px; font-size:16px;  }
+}
+#wrapper_holder_documentlist{ padding-top:20px; padding-bottom:80px; border:0px solid red; }
+#wrapper_documentlist{ padding-top:0px; padding-bottom:0px; width:880px; margin:0 auto }
+.form_documentlist_holder{ width:820px; margin:0 auto; border:0px solid black;}
+.documentlist_text_1{  text-align:center; width:100%; font-size:23px; margin-top:0px; color:#ffffff; }
+.documentlist_text_2{ text-align:center; width:100%; font-size:15px; margin-top:10px; margin-bottom:10px; color:#ffffff; }
+.form_section_documentlist{ width:380px; height:45px; border:0px solid red; float:left; margin-top:5px; margin-bottom:5px; color:#000000; }
+.form_section_documentlist input[type=text]{ width:380px; height:20px; padding:15px 10px; border-radius:0px; line-height:20px; float:left; margin-top:0px; margin-bottom:10px; margin-right:10px; text-align:left;  font-size:16px; color:#000000; background:none; border:none; border-bottom:2px solid #000000; box-shadow:none;  }
+.form_section_documentlist input[type=password]{ width:380px; height:20px; padding:15px 10px; border-radius:0px; line-height:20px; float:left; margin-top:0px; margin-bottom:10px; margin-right:10px; text-align:left;  font-size:16px; color:#000000; background:none; border:none; border-bottom:2px solid #000000; box-shadow:none;  }
+.form_section_documentlist input[type=number]{ width:380px; height:20px; padding:15px 10px; border-radius:0px; line-height:20px; float:left; margin-top:0px; margin-bottom:10px; margin-right:10px; text-align:left;  font-size:16px; color:#000000; background:none; border:none; border-bottom:2px solid #000000; box-shadow:none;  }
+.form_section_documentlist input[type=date]{ width:380px; height:20px; padding:15px 10px; border-radius:0px; line-height:20px; float:left; margin-top:0px; margin-bottom:10px; margin-right:10px; text-align:left;  font-size:16px; color:#000000; background:none; border:none; border-bottom:2px solid #000000; box-shadow:none;  }
+.form_section_documentlist input[type=text]::placeholder{ color:#777777;}
+.form_section_documentlist input[type=password]::placeholder{ color:#777777;}
+.form_section_documentlist input[type=number]::placeholder{ color:#777777;}
+.form_section_documentlist input[type=date]::placeholder{ color:#777777;}
+.form_section_documentlist select{ width:100%; height:45px; padding:5px 5px; border-radius:0px; line-height:20px; float:left; margin-top:0px; margin-bottom:10px; margin-right:10px; text-align:left;  font-size:16px; color:#000000; background:none; border:none; border-bottom:2px solid #000000;  }
+.form_section_documentlist select option{ color:#000000;  }
+.form_section_documentlist textarea{ width:820px; height:100px; padding:10px 5px; border-radius:0px; line-height:20px; float:left; margin-top:0px; margin-bottom:20px; margin-right:10px; text-align:left;  font-size:16px; color:#000000; background:none; border:none; border-bottom:2px solid #000000; background:none; border:none; border-bottom:2px solid #000000; resize: none; }
+
+.form_section_documentlist input[type=submit]{ display:inline-block; padding:14px 24px; border-radius:25px; border:none; background:#FAA200; color:#ffffff;  font-size:20px; text-transform:uppercase; font-weight:bold; margin-top:0px; }
+.form_section_documentlist_submit{ height:60px;}
+.form_documentlist_holder .non_validated_field{ border-bottom-color:#000000 !important; }
+
+#form_section_documentlist_0{ float:left; margin-left:0px}
+#form_section_documentlist_1{ float:right; margin-right:0px}
+#form_section_documentlist_2{ float:left; margin-left:0px}
+#form_section_documentlist_3{ float:right; margin-right:0px}
+#form_section_documentlist_4{ float:left; margin-left:0px}
+#form_section_documentlist_5{ float:right; margin-right:0px}
+#form_section_documentlist_6{ float:left; margin-top:10px; width:100%; height:100px;}
+#form_section_documentlist_7{ float:left; margin-top:10px; width:100%; height:30px;}
+#form_section_documentlist_8{ float:left; margin-top:10px; width:100%;}
+#form_section_documentlist_8 input[type=submit]{ float:right; margin-top:0px;}
+.form_documentlist_holder #form_validation_documentlist_message_text{ color:#ff0000; float:left; width:100%; margin-top:5px; margin-bottom:5px; }
+/* End Document List */
+
+@media only screen and (min-width: 720px) and (max-width: 1024px) 
+{
+#wrapper_documentlist{ padding-top:0px; padding-bottom:0px; width:600px; margin:0 auto }
+.form_documentlist_holder{ width:600px; margin:0 auto;}
+.form_section_documentlist{ width:600px; height:45px; margin-top:5px; margin-bottom:5px; }
+.form_section_documentlist input[type=text]{ width:600px; height:20px; padding:15px 10px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px; }
+.form_section_documentlist select{ width:100%; height:45px; padding:5px 5px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px;  }
+.form_section_documentlist textarea{ width:600px; height:100px; padding:10px 5px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px; }
+.form_section_documentlist input[type=submit]{ padding:14px 24px; border-radius:25px; font-size:20px; margin-top:10px; }
+.form_section_documentlist_submit{ height:60px;}
+#form_section_documentlist_0{ float:left; margin-left:0px}
+#form_section_documentlist_1{ float:left; margin-right:0px}
+#form_section_documentlist_2{ float:left; margin-left:0px}
+#form_section_documentlist_3{ float:left; margin-right:0px}
+#form_section_documentlist_4{ float:left; margin-left:0px; width:100%;}
+#form_section_documentlist_5{ float:left; margin-right:0px}
+#form_section_documentlist_6{ float:left; margin-top:10px; width:100%; height:100px;}
+#form_section_documentlist_7{ float:left; margin-top:10px; width:100%; height:30px;}
+#form_section_documentlist_8{ float:left; margin-top:10px; width:100%;}
+#form_section_documentlist_8 input[type=submit]{ float:right; margin-top:0px;}
+.form_documentlist_holder #form_validation_documentlist_message_text{ margin-top:5px; margin-bottom:5px; }
+}
+@media only screen and (min-width: 400px) and (max-width: 719px) 
+{
+#wrapper_documentlist{ padding-top:0px; padding-bottom:0px; width:380px; margin:0 auto }
+.form_documentlist_holder{ width:380px; margin:0 auto;}
+.form_section_documentlist{ width:380px; height:45px; margin-top:5px; margin-bottom:5px; }
+.form_section_documentlist input[type=text]{ width:380px; height:20px; padding:15px 10px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px; }
+.form_section_documentlist select{ width:100%; height:45px; padding:5px 5px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px;  }
+.form_section_documentlist textarea{ width:380px; height:100px; padding:10px 5px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px; }
+.form_section_documentlist input[type=submit]{ padding:14px 24px; border-radius:25px; font-size:20px; margin-top:10px; }
+.form_section_documentlist_submit{ height:60px;}
+#form_section_documentlist_0{ float:left; margin-left:0px}
+#form_section_documentlist_1{ float:left; margin-right:0px}
+#form_section_documentlist_2{ float:left; margin-left:0px}
+#form_section_documentlist_3{ float:left; margin-right:0px}
+#form_section_documentlist_4{ float:left; margin-left:0px; width:100%;}
+#form_section_documentlist_5{ float:left; margin-right:0px}
+#form_section_documentlist_6{ float:left; margin-top:10px; width:100%; height:100px;}
+#form_section_documentlist_7{ float:left; margin-top:10px; width:100%; height:70px;}
+#form_section_documentlist_8{ float:left; margin-top:20px; width:100%;}
+#form_section_documentlist_8 input[type=submit]{ float:right; margin-top:0px;}
+.form_documentlist_holder #form_validation_documentlist_message_text{ margin-top:5px; margin-bottom:5px; }
+}
+@media only screen and (min-width: 240px) and (max-width: 399px) 
+{
+#wrapper_documentlist{ padding-top:0px; padding-bottom:0px; width:300px; margin:0 auto }
+.form_documentlist_holder{ width:300px; margin:0 auto;}
+.form_section_documentlist{ width:300px; height:45px; margin-top:5px; margin-bottom:5px; }
+.form_section_documentlist input[type=text]{ width:300px; height:20px; padding:15px 10px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px; }
+.form_section_documentlist select{ width:100%; height:45px; padding:5px 5px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px;  }
+.form_section_documentlist textarea{ width:300px; height:100px; padding:10px 5px; line-height:20px; margin-top:0px; margin-bottom:10px; margin-right:0px; font-size:16px; }
+.form_section_documentlist input[type=submit]{ padding:14px 24px; border-radius:25px; font-size:20px; margin-top:10px; }
+.form_section_documentlist_submit{ height:60px;}
+#form_section_documentlist_0{ float:left; margin-left:0px}
+#form_section_documentlist_1{ float:left; margin-right:0px}
+#form_section_documentlist_2{ float:left; margin-left:0px}
+#form_section_documentlist_3{ float:left; margin-right:0px}
+#form_section_documentlist_4{ float:left; margin-left:0px; width:100%;}
+#form_section_documentlist_5{ float:left; margin-right:0px}
+#form_section_documentlist_6{ float:left; margin-top:10px; width:100%; height:100px;}
+#form_section_documentlist_7{ float:left; margin-top:10px; width:100%; height:70px;}
+#form_section_documentlist_8{ float:left; margin-top:20px; width:100%;}
+#form_section_documentlist_8 input[type=submit]{ float:right; margin-top:0px;}
+.form_documentlist_holder #form_validation_documentlist_message_text{ margin-top:5px; margin-bottom:5px; }
+}
+
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+@import url(https://fonts.googleapis.com/css?family=Open + Sans:400, 300);
+.alert {
+  margin: 10px 0px;
+  padding: 12px;
+  border-radius: 5px;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.alert:hover {
+  cursor: pointer;
+}
+
+.alert:before {
+  padding-right: 12px;
+}
+
+.alert:after {
+  content: "\f00d";
+  font-family: "FontAwesome";
+  float: right;
+  padding: 3px;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.alert-info {
+  color: #00529b;
+  background-color: #bde5f8;
+  border: 1px solid darken(#bde5f8, 15%);
+}
+
+.alert-info:before {
+  content: "\f05a";
+  font-family: "FontAwesome";
+}
+
+.alert-warn {
+  color: #9f6000;
+  background-color: #feefb3;
+  border: 1px solid darken(#feefb3, 15%);
+}
+
+.alert-warn:before {
+  content: "\f071";
+  font-family: "FontAwesome";
+}
+
+.alert-error {
+  color: #d8000c;
+  background-color: #ffbaba;
+  border: 1px solid darken(#ffbaba, 15%);
+}
+
+.alert-error:before {
+  content: "\f057";
+  font-family: "FontAwesome";
+}
+
+.alert-success {
+  color: #4f8a10;
+  background-color: #dff2bf;
+  border: 1px solid darken(#dff2bf, 15%);
+}
+
+.alert-success:before {
+  content: "\f058";
+  font-family: "FontAwesome";
+}
